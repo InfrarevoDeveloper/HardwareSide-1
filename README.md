@@ -5,3 +5,4 @@
 
 * [VMware vSphere Hypervisor 7.0 ダウンロード センター](https://my.vmware.com/jp/web/vmware/evalcenter)
 
+個人IDからの書き込みテスト
